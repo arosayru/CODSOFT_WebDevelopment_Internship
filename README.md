@@ -17,6 +17,7 @@ completion of the internship. From those levels, <b>I selected Level 1 Tasks.</b
 </p>
 
 <h3><a href="https://cityfurniture-webdevelopment.netlify.app/">Live Server</a></h3>
+<hr />
 
 <h3>Level 1 - Task 2</h3>
 <h4>PORTFOLIO</h4>
@@ -35,6 +36,7 @@ completion of the internship. From those levels, <b>I selected Level 1 Tasks.</b
 </p>
 
 <h3><a href="https://adithya-rosayru-portfolio.netlify.app/">Live Server</a></h3>
+<hr />
 
 <h3>Level 1 - Task 3</h3>
 <h4>CALCULATOR</h4>
